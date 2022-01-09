@@ -30,3 +30,4 @@ Then type the following command to install the dependencies and start the applic
 npm install<br/>  npm start<br/>
 The front-end server will start on port 3000
 
+
