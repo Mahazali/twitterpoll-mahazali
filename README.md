@@ -5,9 +5,9 @@ git clone https://github.com/Mahazali/twitterpoll-mahazali.git <br />
 cd polls
 ### 2. Create Postgresql database
 create database polling_app
-### 3. Change MySQL username and password as per your MySQL installation
+### 3. Change Postgresql username and password as per your Postgresql installation
 open src/main/resources/application.properties file.<br />
-change spring.datasource.username and spring.datasource.password properties as per your mysql installation
+change spring.datasource.username and spring.datasource.password properties as per your postgresql installation
 ### 4. Run the app
 You can run the spring boot app by clicking the run icon <br /> -
 
@@ -29,3 +29,5 @@ Then type the following command to install the dependencies and start the applic
 
 npm install<br/>  npm start<br/>
 The front-end server will start on port 3000
+
+
